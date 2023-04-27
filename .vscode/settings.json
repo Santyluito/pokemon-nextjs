@@ -1,0 +1,11 @@
+{
+    "exportall.config.folderListener": [
+        "/themes",
+        "/src/components/ui",
+        "/api",
+        "/src/themes",
+        "/src/components/pokemon",
+        "/src/interfaces",
+        "/src/utils"
+    ]
+}
